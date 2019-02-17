@@ -12,7 +12,7 @@
 - The tool is presented in the paper: 
   Abdulrakeeb M. Al-Ssulami, Aqil M. Azmi, and Muhammad Hussain. 
   CodSeqGen: A tool for generating synonymous coding sequences with
-  desired GC-contents, Genomics, 2019.
+  desired GC-contents, Genomics, 2019, https://doi.org/10.1016/j.ygeno.2019.02.002.
 ***********************************************************************
 *                                                                     *
 *     Copyright: 2019 by Dr.Abdulrakeeb M. Al-Ssulami                 *
